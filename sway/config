@@ -10,3 +10,12 @@
 #     urgent_workspace    $base06 $base06 $fg
 #     binding_mode        $base01 $base01 $fg
 # }
+
+ 
+# # Property Name         Border  BG      Text    Indicator Child Border
+# client.focused          $base05 $base0D $fg     $base0D $base0D
+# client.focused_inactive $base01 $base01 $fg     $base03 $base01
+# client.unfocused        $base01 $base00 $fg     $base01 $base01
+# client.urgent           $base08 $base08 $fg     $base08 $base08
+# client.placeholder      $base00 $base00 $fg     $base00 $base00
+# client.background       $base07
