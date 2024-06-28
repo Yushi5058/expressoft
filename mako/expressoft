@@ -1,0 +1,18 @@
+# Colorscheme : Expressoft
+# Author : Yushi5058
+# general
+background-color=#120d09
+text-color=#cabeb3
+border-color=#766454
+
+# specific
+[urgency=low]
+background-color=#120d09
+text-color=#aa998b
+border-color=#766454
+
+[urgency=high]
+background-color=#120d09
+text-color=#9c4473
+border-color=#766454
+
