@@ -4,3 +4,4 @@ The colorscheme is mainly ported to the apps I currently use. Each app has a ded
 
 ## Firefox Theme 
 [click here](https://color.firefox.com/?theme=XQAAAAIWAQAAAAAAAABBKYhm849SCia2CaaEGccwS-xMDPr4kGajxGud7eRdyLqgtMwxDCSk3Dph9vCTiSKjGpeTLFbn_7bOqvkyVCmP9gmS3kB24rDzUBGEsCizDb72bhgLn_eKzBDgDmTcUkFGqtrKnZv1C1a3XyNI-6SfOpd966pqJELEkuKGjToPDSOt_2WHGgmN1UrYawcBl-V48EBb2kEWacBfXhXWclF-IpLzpiB49BkLIsQ4Etb__0EYgAA)
+
